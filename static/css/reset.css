@@ -1,0 +1,39 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div,
+ul,
+li,
+dl,
+dt,
+dd,
+button,
+input {
+    padding: 0;
+    margin: 0;
+}
+ul,
+li,
+dl,
+dt,
+dd {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+button {
+    border: none;
+    outline: none;
+}
+input {
+    outline-style: none;
+    border: none;
+}
